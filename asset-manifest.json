@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7BDojo-blog%7D/static/css/main.48ae37b2.css",
+    "main.js": "/%7BDojo-blog%7D/static/js/main.66026c36.js",
+    "index.html": "/%7BDojo-blog%7D/index.html",
+    "main.48ae37b2.css.map": "/%7BDojo-blog%7D/static/css/main.48ae37b2.css.map",
+    "main.66026c36.js.map": "/%7BDojo-blog%7D/static/js/main.66026c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ae37b2.css",
+    "static/js/main.66026c36.js"
+  ]
+}
